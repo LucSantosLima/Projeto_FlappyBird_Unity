@@ -61,7 +61,7 @@ Algumas funcionalidades que podem ser adicionadas futuramente:
 
 ## 📷 Preview
 
-Uma imagem ou GIF do jogo será adicionado futuramente.
+![Gameplay Flappy Bird](docs/gameplay.gif)
 
 ## 📌 Sobre o projeto
 
